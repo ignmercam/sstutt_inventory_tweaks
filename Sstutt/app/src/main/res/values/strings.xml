@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sstutt Inventory Tweaks</string>
+    <string name="Inventario">Acceder a inventario</string>
+    <string name="Perfil">Acceder a perfil de usuario</string>
+    <string name="Menu">Menu principal</string>
+    <string name="Añadir">Añadir unidad/es prenda</string>
+    <string name="Eliminar">Eliminar unidad/es prenda</string>
+    <string name="Solicitar">Solicitar prenda</string>
+</resources>

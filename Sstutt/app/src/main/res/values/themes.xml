@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sstutt" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+    </style>
+
+    <style name="Theme.Sstutt" parent="Base.Theme.Sstutt">
+        <item name="android:background">#dae5f7</item>
+        <item name="android:windowBackground">#92a7cb</item>
+        <item name="android:colorPrimary">#92a7cb</item>
+        <item name="android:statusBarColor">#92a7cb</item>
+    </style>
+</resources>

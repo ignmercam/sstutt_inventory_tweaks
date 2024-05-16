@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Blue" >
+        <item name="android:background">#92a7cb</item>
+    </style>
+</resources>
