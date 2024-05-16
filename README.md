@@ -1,9 +1,9 @@
 # sstutt_inventory_tweaks
-#Introducción
+##Introducción
 
 Sstutt Inventory Tweaks es una aplicación Android diseñada para optimizar la gestión de inventario de la empresa Sstutt. La aplicación ofrece una interfaz sencilla e intuitiva, funcionalidades completas y una implementación técnica sólida, lo que la convierte en una solución eficaz para mejorar la eficiencia, el control y la comunicación dentro de la empresa.
 
-#Funcionalidades
+##Funcionalidades
 
 Inicio de sesión seguro para empleados registrados
 Menú principal con acceso a diferentes secciones:
@@ -36,7 +36,7 @@ Nombre del modelo
 Talla (opcional)
 Cantidad (opcional)
 
-#Tecnologías utilizadas
+##Tecnologías utilizadas
 
 Android Studio: IDE para el desarrollo de aplicaciones Android
 Spring Framework: Framework Java para el desarrollo de aplicaciones web
